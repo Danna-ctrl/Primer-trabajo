@@ -1,2 +1,0 @@
-# Primer-trabajo
-primer intento
